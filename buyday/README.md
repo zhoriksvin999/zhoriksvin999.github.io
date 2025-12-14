@@ -1,4 +1,4 @@
-# BuyDay
+# docs
 
 A Pen created on CodePen.
 
